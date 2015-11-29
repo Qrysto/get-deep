@@ -5,9 +5,9 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/cityme/get-nested"
+    "url": "https://github.com/Qrysto/get-deep"
   },
   "author": "qrysto",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/cityme/get-nested#readme"
+  "license": "GNU GPL",
+  "homepage": "https://github.com/Qrysto/get-deep"
 }

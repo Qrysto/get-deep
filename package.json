@@ -1,0 +1,13 @@
+{
+  "name": "get-deep",
+  "version": "1.0.0",
+  "description": "A utility for getting deeply nested values from object",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/cityme/get-nested"
+  },
+  "author": "qrysto",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/cityme/get-nested#readme"
+}

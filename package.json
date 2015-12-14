@@ -1,6 +1,6 @@
 {
   "name": "get-deep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility for getting deeply nested values from object",
   "main": "index.js",
   "repository": {
@@ -9,5 +9,14 @@
   },
   "author": "qrysto",
   "license": "GNU GPL",
-  "homepage": "https://github.com/Qrysto/get-deep"
+  "homepage": "https://github.com/Qrysto/get-deep",
+  "keywords": [
+    "get",
+    "deep", 
+    "object", 
+    "nested", 
+    "property",
+    "path",
+    "hierachy"
+  ]
 }
